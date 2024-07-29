@@ -1,6 +1,13 @@
 # flutt1
 
-A new Flutter project.
+A new Flutter project with local notification template.
+
+uses:
+https://pub.dev/packages/awesome_notifications
+**Awesome_Notifications 0.9.3**
+
+
+
 
 ## Getting Started
 
